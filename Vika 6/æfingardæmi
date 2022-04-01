@@ -1,0 +1,43 @@
+2.4.1
+
+PRIO*R**I*T*Y***QUE***U*E
+
+insert P
+insert R
+insert I
+insert O
+deleteMax  (RPIO) R fer út úr heap (PIO)
+insert R
+deleteMax  (RPIO) R fer úr heap (PIO)
+deleteMax  (PIO) P fer úr (IO)
+insert I
+deleteMax  (IOI) O fer úr heap (OI)
+insert T
+deleteMax (IIOT) I fer úr heap (IOT)
+insert Y
+
+
+2.4.7
+
+heap (kös) af stærð 31
+hvar getur estærsta stakið verið? svar: efst
+Næststærsta stakið (öll stökin ólík) svar : Gæti verið í 2,3
+Þriðja stærsta stakið? svar: 2,3,4,5,6,7
+Fjórða stærsta stakið? Svar: 2,3,4,5,6,7,8,9,10,11,12,13,14,15
+Fimmta stærsta stakið? Svar: 2-31
+..
+
+
+2.4.5
+
+E A S Y Q U E S T I O N
+Setja upp hvernig þetta fer inn á heap og hvernig það breytist
+
+2.4.10
+
+Gamla númeringin er barn(i,0) = 2*i (i=1....N), barn(i,1) = 2*i+1, foreldri(i) = i/2
+
+
+f(i) = i-1 #frá gömlu nr yfir í nýju
+
+foreldri_nýja(j) = foreldri(j+1) = (j+1)/2  , j=0...N-1
